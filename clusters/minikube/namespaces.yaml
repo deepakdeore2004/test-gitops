@@ -4,4 +4,5 @@ kind: Namespace
 metadata:
   labels:
     name: spark-operator
+    test: value
   name: spark-operator
